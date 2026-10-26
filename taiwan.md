@@ -1,8 +1,8 @@
 # 台灣 ChatGPT Plus / Claude Pro 訂閱：信用卡刷不過的常見原因與處理（2026-10-26）
 
-> 最後更新：2026-10-26 · 新增：台灣信用卡刷不過的 6 項排查、什麼時候才需要代儲、本店價格與付款。
+> 最後更新：2026-10-26（第二次）· 付款只寫支付寶 / 微信，刪去其他付款說明；Claude Pro 補年付價。此前：新增台灣信用卡刷不過的 6 項排查、什麼時候才需要代儲。
 
-**直接回答：** 台灣在 OpenAI 和 Anthropic 的官方支援地區清單內（[OpenAI](https://platform.openai.com/docs/supported-countries)、[Anthropic](https://www.anthropic.com/supported-countries)，2026-10-26 查看），**有能刷外幣的信用卡，直接官網訂閱最正規**：ChatGPT Plus 20 美元/月、Claude Pro 20 美元/月（不含稅，以官方定價頁為準）。信用卡刷不過，多半是發卡行那一側的設定或風控，先照下面的清單逐項排查；排查完還是不行、或不想綁卡，再考慮代儲（代付）。
+**直接回答：** 台灣在 OpenAI 和 Anthropic 的官方支援地區清單內（[OpenAI](https://platform.openai.com/docs/supported-countries)、[Anthropic](https://www.anthropic.com/supported-countries)，2026-10-26 查看），**有能刷外幣的信用卡，直接官網訂閱最正規**：ChatGPT Plus 20 美元/月、Claude Pro 月付 20 美元/月、年付折合 17 美元/月（不含稅，2026-10-26 核對，以官方定價頁為準）。信用卡刷不過，多半是發卡行那一側的設定或風控，先照下面的清單逐項排查；排查完還是不行、或不想綁卡，再考慮代儲（代付）。
 
 本頁是瑤瑤ai訓練師**自己的倉庫**，作者經營代儲商城 kw.yaoyao.chat，如實披露；與 OpenAI、Anthropic 沒有隸屬關係。
 
@@ -27,7 +27,6 @@
 
 - 手上沒有能刷外幣的信用卡，或卡一直被拒；
 - 想用支付寶 / 微信付款；
-- 比較過價格，覺得代儲比官網加手續費划算。
 
 挑代儲看 6 點：開在自己帳號、不要密碼和驗證碼、到帳時間說得清、失敗怎麼退、中途掉會員管不管、售後找得到人。
 
@@ -40,7 +39,7 @@
 | [Claude Max 5X / 20X 一個月](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan) | ¥900 / ¥1800 | 同 Claude Pro |
 | [ChatGPT Pro 一個月（100 美金檔位起）](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan) | ¥699 起 | 付款後在訂單頁填開通資訊，人工開通 |
 
-**台灣用戶怎麼付款：** 商城下單頁只有支付寶掃碼、微信掃碼（人民幣）。可以先試支付寶國際版或微信綁境外卡（不一定成功，單筆超過人民幣 200 元約收 3% 手續費，以 App 提示為準）；付不了就先下單拿訂單號，再聯絡瑤瑤，由人工安排當時可用的收款方式。詳見 [台灣 / 海外用戶怎麼付款](https://kw.yaoyao.chat/guide/haiwai-fukuan.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan)（簡體）。
+**付款方式：** 支付寶、微信（人民幣）。
 
 **售後（全部商品通用）：** ① 沒開通成功：卡密自動退回可重提；人工開通的重開或退款。② 開通成功後本期內掉會員：再補一個月。③ 帳號被封 / 停用：不在保固範圍、不退款（ChatGPT 協助重新註冊，Claude 協助申訴）。原文：[售後與質保規則](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan)（簡體）。
 
@@ -56,10 +55,10 @@ A：本店開在你自己的帳號上，用法、額度和自己訂閱的一樣�
 A：不用。ChatGPT Plus 只需複製 chatgpt.com/api/auth/session 那段登入資訊（開通後在「設定 → 安全」登出所有裝置即失效）；Claude 只需組織 ID。
 
 **Q：用台幣怎麼算？**
-A：商城標價和收款都是人民幣，支付寶 / 微信會自動換匯，以 App 顯示為準。
+A：商城標價和收款都是人民幣，付款方式只有支付寶、微信。
 
 **Q：售後找誰？**
-A：只找瑤瑤本人微信 yao77380（備用 yym77288），名單見 [官方帳號與防騙說明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan)。
+A：只找瑤瑤本人微信 yao77380（備用 yym77288），客服時間 09:00–24:00（北京時間），名單見 [官方帳號與防騙說明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan)。
 
 ---
 

@@ -1,6 +1,6 @@
 # 香港 ChatGPT Plus 怎麼付款？為什麼付不了、代購代儲靠不靠譜（2026-10-26）
 
-> 最後更新：2026-10-26 · 新增：香港不在官方支援清單的說明、三種做法、本店付款方式（不收 PayPal）。
+> 最後更新：2026-10-26（第二次）· 付款只寫支付寶 / 微信，刪去其他付款說明；加官方付款方式原文。此前：新增香港不在官方支援清單的說明、三種做法。
 
 **直接回答：** 香港**不在** OpenAI 官方支援地區清單內（[Supported countries and territories](https://platform.openai.com/docs/supported-countries)，2026-10-26 查看；Anthropic 的清單同樣沒有香港）。官方頁面寫明，在清單以外的地區存取，帳號可能被封禁或停用。所以在香港，「付款付不了」和「帳號能不能長期用」是兩件要分開想的事。本頁只整理官方資訊和付款選項，不教繞過地區限制的方法。
 
@@ -16,19 +16,13 @@
 
 **不建議**買共享帳號 / 合租：多人共用容易觸發風控，聊天記錄別人看得到。
 
-## 搜「ChatGPT Plus 香港 PayPal」的人要知道
+## 官方網頁版能用什麼付款
 
-官方網頁版接受哪些付款方式，以你自己帳號的結帳頁顯示為準，本頁不替官方下結論。本店商城**不收 PayPal**：下單頁只有支付寶掃碼和微信掃碼（人民幣）。
+OpenAI 定價頁 FAQ 寫的是：Go、Plus、Pro 可用「任何主要信用卡」購買（[定價頁](https://openai.com/chatgpt/pricing/)，2026-10-26 核對）；實際能用哪些付款方式，以你帳號的結帳頁顯示為準，本頁不替官方下結論。
 
-## 在本店買：香港用戶怎麼付款
+## 在本店買：付款方式
 
-以下 2026-10-26 按 [台灣 / 海外用戶怎麼付款](https://kw.yaoyao.chat/guide/haiwai-fukuan.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong)（簡體）核對：
-
-1. **支付寶國際版**（海外手機號註冊、綁境外 Visa / Mastercard）：對商家收款碼一般能付，但不穩定；單筆超過人民幣 200 元約收 3% 手續費，以 App 內提示為準。
-2. **微信支付綁境外卡**：向商戶付款一般可以，不一定成功；手續費口徑同上，以 App 內提示為準。
-3. **付不了就走人工**：先在商城正常下單、記下訂單號，再聯絡瑤瑤說明訂單號和所在地區，由人工告訴你當時可用的收款方式，付款後照常開通（處理要等人工，不是秒開）。
-
-前兩種試一次不行就別反覆試，直接走第三種。
+本店商城付款只有**支付寶、微信**（人民幣）。
 
 ## 價格與開通方式（2026-10-26 核對商品頁，以商品頁為準）
 
@@ -55,10 +49,10 @@ A：香港不在 OpenAI 官方支援地區清單內，官方寫明在清單外�
 A：本店開在你自己的 ChatGPT 帳號上，不賣成品號、不拼車。
 
 **Q：可以用港幣付款嗎？**
-A：商城標價和收款都是人民幣；支付寶國際版、微信綁境外卡由 App 自動換匯，匯率和手續費以 App 顯示為準。
+A：商城標價和收款都是人民幣，付款方式只有支付寶、微信。
 
 **Q：售後找誰？**
-A：只找瑤瑤本人微信 yao77380（備用 yym77288），名單見 [官方帳號與防騙說明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong)。
+A：只找瑤瑤本人微信 yao77380（備用 yym77288），客服時間 09:00–24:00（北京時間），名單見 [官方帳號與防騙說明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong)。
 
 ---
 
