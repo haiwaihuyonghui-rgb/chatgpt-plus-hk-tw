@@ -87,7 +87,7 @@ OpenAI 頁面寫明：在清單以外的地區存取，帳號可能被封禁或�
 | ChatGPT Plus 十二個月 | ¥1439 | [item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
 | ChatGPT Pro 一個月（100 / 200 / 500 美金檔位） | ¥699 / ¥1399 / ¥3499 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
 | Claude Pro 一個月 | ¥159 | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
-| Claude Max 5X / 20X 一個月 | ¥900 / ¥1800 | [item/14](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/13](https://kw.yaoyao.chat/item/13?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
+| Claude Max 5X / 20X 一個月 | ¥900 / ¥1800 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
 | Grok Premium（原 SuperGrok）一個月 | ¥159 | [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
 | Gemini Pro（Google AI Pro）18 個月 | ¥99 | [item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
 
