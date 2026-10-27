@@ -1,3 +1,5 @@
+**📚 全部教程合集（簡體中文）：[國內 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（16 章一個倉庫，價格每週核對；網頁版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
+
 # ChatGPT Plus / Claude Pro 香港、台灣怎麼訂閱 2026：官網訂閱、App 內購、禮品卡、代儲四種方法怎麼選（繁體中立攻略）
 
 > 最後更新：2026-10-28 · ChatGPT Plus 三個月 ¥387、六個月 ¥774、十二個月 ¥1548（就是一個月 ¥129 × 月數），和一個月同一個下單頁選時長。此前（2026-10-26）：改為中立攻略結構：先講四種開通方法各自的價格、條件、優缺點和風險（附官方連結與核對日期）；作者商城價格放到最後；付款只寫支付寶 / 微信；文末新增「複測記錄」。
