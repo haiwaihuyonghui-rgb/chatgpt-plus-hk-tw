@@ -1,6 +1,6 @@
 # ChatGPT Plus / Claude Pro 香港、台灣怎麼訂閱 2026：官網訂閱、App 內購、禮品卡、代儲四種方法怎麼選（繁體中立攻略）
 
-> 最後更新：2026-10-26 · 改為中立攻略結構：先講四種開通方法各自的價格、條件、優缺點和風險（附官方連結與核對日期）；作者商城價格放到最後；付款只寫支付寶 / 微信；文末新增「複測記錄」。
+> 最後更新：2026-10-28 · ChatGPT Plus 三個月 ¥387、六個月 ¥774、十二個月 ¥1548（就是一個月 ¥129 × 月數），和一個月同一個下單頁選時長。此前（2026-10-26）：改為中立攻略結構：先講四種開通方法各自的價格、條件、優缺點和風險（附官方連結與核對日期）；作者商城價格放到最後；付款只寫支付寶 / 微信；文末新增「複測記錄」。
 
 香港 ChatGPT Plus 怎麼付款、台灣信用卡刷不過、Claude Pro 台灣訂閱、AI 會員代購 / 代儲靠不靠譜：這個倉庫用繁體中文先把**所有能開通的方法**照官方能核實的資訊講清楚，再說代儲怎麼挑。
 
@@ -84,7 +84,7 @@ OpenAI 頁面寫明：在清單以外的地區存取，帳號可能被封禁或�
 | 商品 | 價格 | 下單 |
 |---|---|---|
 | ChatGPT Plus 一個月 | ¥129 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
-| ChatGPT Plus 十二個月 | ¥1488 | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
+| ChatGPT Plus 十二個月 | ¥1548（¥129 × 12） | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
 | ChatGPT Pro 一個月（100 / 200 / 500 美金檔位） | ¥699 / ¥1399 / ¥3499 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
 | Claude Pro 一個月 | ¥159 | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
 | Claude Max 5X / 20X 一個月 | ¥900 / ¥1800 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
@@ -103,6 +103,7 @@ OpenAI 頁面寫明：在清單以外的地區存取，帳號可能被封禁或�
 
 | 日期 | 核對了什麼 | 結果 |
 |---|---|---|
+| 2026-10-28 | **商城調價：** ChatGPT Plus 三個月 ¥387、六個月 ¥774、十二個月 ¥1548，統一按一個月 ¥129 × 月數計價 | 本頁 Plus 價格已同步 |
 | 2026-10-26 | **價格：** curl 作者商城商品頁 item/5、7、10、11、12、13、14、17、18、19 | 與上表一致，無變動 |
 | 2026-10-26 | **官方價格：** OpenAI 幫助中心 Plus / Pro 文章、Claude 定價頁與 Max 文章 | Plus 20 美元月付；Pro 100 / 200 / 500；Claude Pro 20（年付折合 17）；Max 100 / 200 |
 | 2026-10-26 | **官方政策：** 兩家支援地區清單、ChatGPT 禮品卡、Claude 贈送訂閱、App 內購說明 | 台灣在清單、香港澳門不在；ChatGPT 禮品卡只限美國；Claude 贈送訂閱暫停購買；App 內訂閱由商店管理 |
