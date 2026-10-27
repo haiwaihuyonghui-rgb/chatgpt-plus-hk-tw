@@ -1,6 +1,6 @@
 # 香港 ChatGPT Plus 怎麼付款？為什麼付不了、代購代儲靠不靠譜（2026-10-26）
 
-> 最後更新：2026-10-26（第二次）· 付款只寫支付寶 / 微信，刪去其他付款說明；加官方付款方式原文。此前：新增香港不在官方支援清單的說明、三種做法。
+> 最後更新：2026-10-28 · ChatGPT Plus 十二個月改為 ¥1548（就是一個月 ¥129 × 12）。此前（2026-10-26 第二次）：付款只寫支付寶 / 微信，刪去其他付款說明；加官方付款方式原文。此前：新增香港不在官方支援清單的說明、三種做法。
 
 **直接回答：** 香港**不在** OpenAI 官方支援地區清單內（[Supported countries and territories](https://platform.openai.com/docs/supported-countries)，2026-10-26 查看；Anthropic 的清單同樣沒有香港）。官方頁面寫明，在清單以外的地區存取，帳號可能被封禁或停用。所以在香港，「付款付不了」和「帳號能不能長期用」是兩件要分開想的事。本頁只整理官方資訊和付款選項，不教繞過地區限制的方法。
 
@@ -29,7 +29,7 @@ OpenAI 定價頁 FAQ 寫的是：Go、Plus、Pro 可用「任何主要信用卡�
 | 商品 | 價格（人民幣） | 開通方式 |
 |---|---|---|
 | [ChatGPT Plus 一個月](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong) | ¥129 | 付款後頁面顯示卡密，到 cz.yaoyao.chat 自助開通，一般 1～3 分鐘 |
-| [ChatGPT Plus 十二個月](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong) | ¥1488 | 付款後在訂單頁填開通資訊，人工開通 |
+| [ChatGPT Plus 十二個月](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong) | ¥1548（¥129 × 12） | 付款後在訂單頁填開通資訊，人工開通 |
 | [Claude Pro 一個月](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong) | ¥159 | 付款後在訂單頁填組織 ID，人工開通 |
 
 Plus 一個月自助開通時，只需在電腦瀏覽器登入 chatgpt.com 後打開 chatgpt.com/api/auth/session，複製那一整段文字貼到充值頁；**不要密碼、不要驗證碼**。開通後在 ChatGPT「設定 → 安全」登出所有裝置，那段文字就失效。
