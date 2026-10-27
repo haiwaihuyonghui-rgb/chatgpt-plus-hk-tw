@@ -36,7 +36,7 @@
 |---|---|---|
 | [ChatGPT Plus 一個月](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan) | ¥129 | 付款後顯示卡密，cz.yaoyao.chat 自助開通，一般 1～3 分鐘 |
 | [Claude Pro 一個月](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan) | ¥159 | 付款後在訂單頁填組織 ID（claude.ai → 設定 → 帳號），人工開通，商品頁寫明 10 分鐘內 |
-| [Claude Max 5X / 20X 一個月](https://kw.yaoyao.chat/item/14?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan) | ¥900 / ¥1800 | 同 Claude Pro |
+| [Claude Max 5X / 20X 一個月](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan) | ¥900 / ¥1800 | 同 Claude Pro |
 | [ChatGPT Pro 一個月（100 美金檔位起）](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=taiwan) | ¥699 起 | 付款後在訂單頁填開通資訊，人工開通 |
 
 **付款方式：** 支付寶、微信（人民幣）。
