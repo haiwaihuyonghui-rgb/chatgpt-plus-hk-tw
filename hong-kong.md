@@ -29,7 +29,7 @@ OpenAI 定價頁 FAQ 寫的是：Go、Plus、Pro 可用「任何主要信用卡�
 | 商品 | 價格（人民幣） | 開通方式 |
 |---|---|---|
 | [ChatGPT Plus 一個月](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong) | ¥129 | 付款後頁面顯示卡密，到 cz.yaoyao.chat 自助開通，一般 1～3 分鐘 |
-| [ChatGPT Plus 十二個月](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong) | ¥1439 | 付款後在訂單頁填開通資訊，人工開通 |
+| [ChatGPT Plus 十二個月](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong) | ¥1488 | 付款後在訂單頁填開通資訊，人工開通 |
 | [Claude Pro 一個月](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw&utm_content=hong-kong) | ¥159 | 付款後在訂單頁填組織 ID，人工開通 |
 
 Plus 一個月自助開通時，只需在電腦瀏覽器登入 chatgpt.com 後打開 chatgpt.com/api/auth/session，複製那一整段文字貼到充值頁；**不要密碼、不要驗證碼**。開通後在 ChatGPT「設定 → 安全」登出所有裝置，那段文字就失效。
