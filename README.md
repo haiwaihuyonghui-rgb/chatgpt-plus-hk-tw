@@ -97,7 +97,7 @@ OpenAI 頁面寫明：在清單以外的地區存取，帳號可能被封禁或�
 - **開在你自己的帳號：** 不賣成品號、不拼車；不要密碼、不要驗證碼。ChatGPT Plus 一個月付款後顯示卡密，到 cz.yaoyao.chat 自助開通，一般 1～3 分鐘；其他商品在訂單頁填資訊後人工開通，商品頁寫明 10 分鐘內。
 - **售後三條（全部商品通用）：** ① 沒開通成功：卡密不消耗、自動退回可重新提交，不想再試的聯絡微信退款；人工開通的重開或退款。② 開通成功後本期內掉會員：憑訂單號和截圖再補一個月。③ 帳號被封 / 停用：不在保固範圍、不退款（ChatGPT 可協助重新註冊，Claude 協助申訴）。原文：[售後與質保規則](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw)（簡體）。
 - **客服：** 只找瑤瑤本人微信 yao77380（備用 yym77288），客服時間 09:00–24:00（北京時間）；主動加你、自稱「客服 / 助理」的都不是。名單見 [官方帳號與防騙說明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw)。
-- **關於作者：** 瑤瑤ai訓練師是瑤瑤和丈夫共同運營的個人品牌（不以公司名義對外），2023 年 10 月開始做 AI 科普短影音；**從來沒有開設或販售任何課程**。帳號清單與截圖：[關於瑤瑤ai訓練師](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw#jietu)（簡體）。
+- **關於作者：** 瑤瑤ai訓練師是瑤瑤運營的個人品牌（不以公司名義對外），2023 年 10 月開始做 AI 科普短影音；**從來沒有開設或販售任何課程**。帳號清單與截圖：[關於瑤瑤ai訓練師](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw#jietu)（簡體）。
 
 ## 複測記錄
 
