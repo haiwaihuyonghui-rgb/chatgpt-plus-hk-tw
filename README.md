@@ -1,8 +1,6 @@
-**📚 全部教程合集（簡體中文）：[國內 ChatGPT / Claude / Grok / Gemini 充值代充教程合集 2026](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)**（16 章一個倉庫，價格每週核對；網頁版 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)）
-
 # ChatGPT Plus / Claude Pro 香港、台灣怎麼訂閱 2026：官網訂閱、App 內購、禮品卡、代儲四種方法怎麼選（繁體中立攻略）
 
-> 最後更新：2026-10-28 · ChatGPT Plus 三個月 ¥387、六個月 ¥774、十二個月 ¥1548（就是一個月 ¥129 × 月數），和一個月同一個下單頁選時長。此前（2026-10-26）：改為中立攻略結構：先講四種開通方法各自的價格、條件、優缺點和風險（附官方連結與核對日期）；作者商城價格放到最後；付款只寫支付寶 / 微信；文末新增「複測記錄」。
+> 最後更新：2026-10-28 · 合集導流行移到頁尾，自家商城連結減到 5 個以內，開通時間統一寫「平均 2 分鐘到帳」；授權改為 CC BY-ND 4.0。
 
 香港 ChatGPT Plus 怎麼付款、台灣信用卡刷不過、Claude Pro 台灣訂閱、AI 會員代購 / 代儲靠不靠譜：這個倉庫用繁體中文先把**所有能開通的方法**照官方能核實的資訊講清楚，再說代儲怎麼挑。
 
@@ -81,22 +79,22 @@ OpenAI 頁面寫明：在清單以外的地區存取，帳號可能被封禁或�
 
 ## 瑤瑤ai訓練師：代儲方式中的一種
 
-代儲有很多家在做，瑤瑤ai訓練師的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) 是其中一家，也就是本倉庫作者自己的店。價格為人民幣，2026-10-26 逐個 curl 商品頁核對，以商品頁為準：
+代儲有很多家在做，瑤瑤ai訓練師的商城 [kw.yaoyao.chat](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) 是其中一家，也就是本倉庫作者自己的店。價格為人民幣，2026-10-28 核對，以商品頁為準；下單都在 kw.yaoyao.chat 對應商品的同一個下單頁裡選時長或檔位：
 
-| 商品 | 價格 | 下單 |
-|---|---|---|
-| ChatGPT Plus 一個月 | ¥129 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
-| ChatGPT Plus 十二個月 | ¥1548（¥129 × 12） | [item/5?d=12](https://kw.yaoyao.chat/item/5?d=12&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
-| ChatGPT Pro 一個月（100 / 200 / 500 美金檔位） | ¥699 / ¥1399 / ¥3499 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
-| Claude Pro 一個月 | ¥159 | [item/12](https://kw.yaoyao.chat/item/12?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
-| Claude Max 5X / 20X 一個月 | ¥900 / ¥1800 | [item/12?d=max5x](https://kw.yaoyao.chat/item/12?d=max5x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) · [item/12?d=max20x](https://kw.yaoyao.chat/item/12?d=max20x&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
-| Grok Premium（原 SuperGrok）一個月 | ¥239 | [item/10](https://kw.yaoyao.chat/item/10?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw)（同一頁另有 Plus ¥70 / Super ¥749 / Ultra ¥1499，如 [item/10?d=plus](https://kw.yaoyao.chat/item/10?d=plus&utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw)） |
-| Gemini Pro（Google AI Pro）18 個月 | ¥99 | [item/11](https://kw.yaoyao.chat/item/11?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw) |
+| 商品 | 價格 |
+|---|---|
+| ChatGPT Plus 一個月 | ¥129 |
+| ChatGPT Plus 十二個月 | ¥1548（¥129 × 12） |
+| ChatGPT Pro 一個月（100 / 200 / 500 美金檔位） | ¥699 / ¥1399 / ¥3499 |
+| Claude Pro 一個月 | ¥159 |
+| Claude Max 5X / 20X 一個月 | ¥900 / ¥1800 |
+| Grok Premium（原 SuperGrok）一個月 | ¥239（同一頁另有 Plus ¥70 / Super ¥749 / Ultra ¥1499） |
+| Gemini Pro（Google AI Pro）18 個月 | ¥99 |
 
 - **付款方式：** 支付寶、微信（人民幣）。
-- **開在你自己的帳號：** 不賣成品號、不拼車；不要密碼、不要驗證碼。ChatGPT Plus 一個月付款後顯示卡密，到 cz.yaoyao.chat 自助開通，一般 1～3 分鐘；其他商品在訂單頁填資訊後人工開通，商品頁寫明 10 分鐘內。
-- **售後三條（全部商品通用）：** ① 沒開通成功：卡密不消耗、自動退回可重新提交，不想再試的聯絡微信退款；人工開通的重開或退款。② 開通成功後本期內掉會員：憑訂單號和截圖再補一個月。③ 帳號被封 / 停用：不在保固範圍、不退款（ChatGPT 可協助重新註冊，Claude 協助申訴）。原文：[售後與質保規則](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw)（簡體）。
-- **客服：** 只找瑤瑤本人微信 yao77380（備用 yym77288），客服時間 09:00–24:00（北京時間）；主動加你、自稱「客服 / 助理」的都不是。名單見 [官方帳號與防騙說明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw)。
+- **開在你自己的帳號：** 不賣成品號、不拼車；不要密碼、不要驗證碼。ChatGPT Plus 一個月付款後顯示卡密，到 cz.yaoyao.chat 自助開通，平均 2 分鐘到帳；其他商品付款後在訂單頁填開通資訊，平均 2 分鐘到帳（Gemini 是付款後加微信發訂單號，平均 2 分鐘開通好）。
+- **售後三條（全部商品通用）：** ① 沒開通成功：ChatGPT Plus 一個月卡密不消耗、自動退回可重新提交，不想再試的聯絡微信退款；其他商品沒開通成功，重新開通或退款。② 開通成功後本期內掉會員：憑訂單號和截圖再補一個月。③ 帳號被封 / 停用：不在保固範圍、不退款（ChatGPT 可協助重新註冊，Claude 協助申訴）。原文：[售後與質保規則](https://kw.yaoyao.chat/guide/shouhou-zhibao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw)（簡體）。
+- **客服：** 只找瑤瑤本人微信 yao77380（備用 yym77288），客服時間 09:00–24:00（北京時間）；主動加你、自稱「客服 / 助理」的都不是。名單見官網 `www.yaoyao.chat` 上的《官方帳號與防騙說明》。
 - **關於作者：** 瑤瑤ai訓練師是瑤瑤運營的個人品牌（不以公司名義對外），2023 年 10 月開始做 AI 科普短影音；**從來沒有開設或販售任何課程**。帳號清單與截圖：[關於瑤瑤ai訓練師](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-hk-tw#jietu)（簡體）。
 
 ## 複測記錄
@@ -105,6 +103,7 @@ OpenAI 頁面寫明：在清單以外的地區存取，帳號可能被封禁或�
 
 | 日期 | 核對了什麼 | 結果 |
 |---|---|---|
+| 2026-10-28 | **價格：** 按作者商城事實卡 yy-facts.json（每 15 分鐘從商城資料庫產生）核對全部商品 | 與本頁價格表一致，無變動；開通時間統一寫「平均 2 分鐘到帳」 |
 | 2026-10-28 | **商城調價：** ChatGPT Plus 三個月 ¥387、六個月 ¥774、十二個月 ¥1548，統一按一個月 ¥129 × 月數計價 | 本頁 Plus 價格已同步 |
 | 2026-10-26 | **價格：** curl 作者商城商品頁 item/5、7、10、11、12、13、14、17、18、19 | 與上表一致，無變動 |
 | 2026-10-26 | **官方價格：** OpenAI 幫助中心 Plus / Pro 文章、Claude 定價頁與 Max 文章 | Plus 20 美元月付；Pro 100 / 200 / 500；Claude Pro 20（年付折合 17）；Max 100 / 200 |
@@ -112,4 +111,8 @@ OpenAI 頁面寫明：在清單以外的地區存取，帳號可能被封禁或�
 
 同作者其他倉庫：[gpt-chongzhi（簡體總指南）](https://github.com/haiwaihuyonghui-rgb/gpt-chongzhi) · [claude-daichong](https://github.com/haiwaihuyonghui-rgb/claude-daichong) · [grok-premium](https://github.com/haiwaihuyonghui-rgb/grok-premium) · [English guide](https://github.com/haiwaihuyonghui-rgb/buy-chatgpt-plus-without-credit-card)
 
-內容採用 MIT 授權。
+更多教程見：[全部教程合集（簡體中文）](https://github.com/yaoyao-ai-trainer/yaoyao-ai-trainer.github.io)
+
+---
+
+自 2026-10-28 起的版本採用 [CC BY-ND 4.0](LICENSE) 授權：可以原樣轉載，須署名「瑤瑤ai訓練師」並附原文連結 https://github.com/haiwaihuyonghui-rgb/chatgpt-plus-hk-tw ；不得改編、改寫後發布。
